@@ -3,7 +3,7 @@ tensorflow 2.0 implementation of pix2pix
 
 ## Example outputs :
 
-### generated image --> input --> real image
+### generated image || input || real image
 
 ### Comic Faces Dataset :
 
